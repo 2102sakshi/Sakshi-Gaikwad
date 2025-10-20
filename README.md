@@ -32,11 +32,6 @@ Currently working at **Advanced Secure Technologies**, ensuring the delivery of 
 
 ---
 
-## 📈 GitHub Stats
-![Sakshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakshi-gaikwad&show_icons=true&theme=tokyonight)
-
----
-
 ## 🌐 Connect with Me
 🔗 [LinkedIn](https://linkedin.com/in/sakshi-gaikwad)  
 📧 sakshi.gaikwad@example.com  
